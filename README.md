@@ -1,10 +1,11 @@
-# 🤖 Machine Learning App
+# 🤖 Random Forest-Machine Learning Demo App
+08-24-v1
 
 This is a machine learning app.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dp-machinelearning.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://evinai-demo-ml-rf-v1.streamlit.app/)
 
 ## GitHub Codespaces
 
